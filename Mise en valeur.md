@@ -7,7 +7,7 @@ Puis ainsi <em> sert à insister sur un mot ou une phrase, le mettre donc en ita
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Q3 - HTML </title>
+<h1>Mettre certains mots en évidence</h1>
 </head>
 
 <body>
